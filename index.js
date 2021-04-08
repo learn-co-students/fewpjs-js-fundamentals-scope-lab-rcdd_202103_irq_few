@@ -1,12 +1,12 @@
 let animal = ""
 
 function myAnimal(animal) {
- let  animal = "dog";
+   animal = "dog";
   return animal
 }
 
 function yourAnimal(animal) {
-  let animal = "cat";
+   animal = "cat";
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
